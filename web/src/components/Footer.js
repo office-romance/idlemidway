@@ -12,7 +12,7 @@ const Footer = styled.footer`
 
 const FooterComponent = props => {
   // run graphql queries, useState, etc.
-  return <Footer></Footer>
+  return <Footer><p>IDLE HOURS CO. &copy; 2020</p></Footer>
 }
 
 export default FooterComponent
