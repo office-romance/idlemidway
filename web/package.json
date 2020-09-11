@@ -1,9 +1,9 @@
 {
-  "name": "your-project-title",
+  "name": "Idleness",
   "private": true,
   "description": "Boilerplate for Gatsby + Sanity + Shopify",
   "version": "0.1.0",
-  "author": "You <your-email@domain.com>",
+  "author": "Office Romance <romanceoffice.com>",
   "dependencies": {
     "@sanity/client": "^0.147.3",
     "babel-plugin-styled-components": "^1.10.7",
