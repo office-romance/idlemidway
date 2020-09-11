@@ -1,9 +1,9 @@
 require("dotenv").config()
 module.exports = {
   siteMetadata: {
-    title: `change me`,
-    description: `change me`,
-    author: `your info here`,
+    title: `Idle Hours Co.`,
+    description: `essays in idleness`,
+    author: `Office Romance`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
